@@ -1,4 +1,4 @@
-# MERN Stack Hello World – Advanced Web Development Class Activity
+# MERN Stack Hello World – Advanced Web Development Class Activity -1 
 
 This is a basic "Hello World" web application as part of a class activity - for the Advanced Web Development course.
 
