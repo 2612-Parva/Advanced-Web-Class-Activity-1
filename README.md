@@ -29,11 +29,23 @@ The frontend is built with React using Vite.
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/2612-Parva/Advanced-Web-Class-Activity-1.git
 cd Advanced-Web-Class-Activity-1
+
+---
 
 ### 2. Install Frontend (React + Vite)
 cd frontend
 npm install
 npm run dev
+
+## 3. Deployment (Netlify)
+Netlify Settings:
+Base directory: frontend
+
+Build command: npm run build
+
+Publish directory: dist
+
+Link: https://app.netlify.com/projects/classactivity1/deploys/682fb2b56cd7cecf838deb42
